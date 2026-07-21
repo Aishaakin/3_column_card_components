@@ -1,21 +1,6 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-
-  - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
-- [Author](#author)
-
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges to improve my coding skills by building realistic projects. 
 
 
 ## Overview
@@ -29,13 +14,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](./images/Frontend%20Mentor%203-column%20preview%20card%20component.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-2Ios6gzt-O]
+- Live Site URL: [https://aishaakin.github.io/3_column_card_components/]
 
 ## My process
 
@@ -44,37 +29,10 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.body {
-   min-height: 100vh;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    justify-content: center;
-}
-@media (max-width: 768px) {
-    #three_column_box {
-        flex-direction: column;
-        width: 70%;
-    }
-} 
-```
-
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3school.com) - This helped me for basic CSS properties. I really liked this pattern and will use it going forward.
+- [Resource](https://www.w3school.com) - This helped me for basic CSS properties. I really liked this pattern and will use it going forward.
 
 
 ### AI Collaboration
